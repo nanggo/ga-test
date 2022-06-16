@@ -13,5 +13,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - run: |
-            chmod -x ./scripts/watch.sh
             ./scripts/watch.sh
