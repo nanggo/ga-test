@@ -1,2 +1,2 @@
-# watch-naver-fe-news
-Watch naver FE News
+# github action test
+let's do it
